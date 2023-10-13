@@ -70,14 +70,14 @@ class __HomePageState extends State<_HomePage> {
                     alignment: Alignment.centerLeft,
                     child: Text(
                       userQuestion,
-                      style: const TextStyle(fontSize: 20),
+                      style: const TextStyle(fontSize: 20, color: Colors.white),
                     )),
                 Container(
                     padding: const EdgeInsets.all(20),
                     alignment: Alignment.centerRight,
                     child: Text(
                       userAnswere,
-                      style: const TextStyle(fontSize: 20),
+                      style: const TextStyle(fontSize: 20, color: Colors.white),
                     ))
               ],
             ),
