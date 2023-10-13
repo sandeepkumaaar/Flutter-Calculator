@@ -1,6 +1,10 @@
 # calculator
 
-A new Flutter project.
+This is the simple flutter project.
+![Screenshot_1697189751](https://github.com/sandeepkumaaar/Flutter-Calculator/assets/41250012/ae207abc-407f-41b3-b7fc-6d4f6d84b571){width=25}
+
+
+
 
 ## Getting Started
 
